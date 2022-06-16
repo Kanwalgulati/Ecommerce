@@ -1,0 +1,11 @@
+.MultiConnector-line {
+  display: none !important;
+}
+.MultiConnector-root {
+  height: 1px;
+  background-color: rgba(0, 0, 0, 0.349);
+}
+.MultiConnector-active,
+.MultiConnector-completed {
+  background-color: tomato;
+}
